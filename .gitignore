@@ -31,10 +31,6 @@ dist/
 # Logs
 *.log
 
-# ML artifacts
-*.pkl
-*.joblib
-
 # Large datasets
 *.csv
 *.xlsx
@@ -43,4 +39,3 @@ dist/
 # Temporary files
 *.tmp
 *.temp
-*.vscode
