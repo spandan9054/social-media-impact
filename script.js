@@ -3,7 +3,7 @@
    No loading animation: submit -> real API call -> result.
    ========================================================= */
 
-const API_URL = "http://127.0.0.1:8000/";
+const API_URL = "https://social-media-impact-3.onrender.com";
 
 const SECTION_IDS = ["sec-profile", "sec-habits", "sec-sleep", "sec-academic"];
 
